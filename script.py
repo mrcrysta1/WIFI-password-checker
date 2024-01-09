@@ -1,4 +1,4 @@
-#Ali Ansaripur 
+#Ali Hassan
 from tkinter import *
 import pyperclip 
 root = Tk()
